@@ -1,0 +1,49 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+
+input,
+select {
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+button {
+  background-color: #E7473C;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #CC3F24;
+}
+
+
+.headings {
+  font-size: 1.2rem;
+  margin: 15px 0 5px;
+}
+
+.paragh {
+  font-size: 0.95rem;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+
+  
+  

@@ -1,0 +1,46 @@
+
+.event-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .event-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 250px;
+  }
+  
+  .event-card h3 {
+    margin-top: 0;
+  }
+  
+  .event-card p {
+    font-size: 0.9rem;
+  }
+  
+  .event-card .event-date {
+    font-weight: bold;
+    color: #2a3d66;
+  }
+  
+  .event-card .event-location {
+    font-style: italic;
+    color: #7f8c8d;
+  }
+  
+  .noevent {
+    font-size: 2rem;
+    
+  }
+
+  .event-description{
+    text-align: center;
+    color:#6F7287;
+  }
+  .event-headin{
+    color: #1E0A3C;
+  }

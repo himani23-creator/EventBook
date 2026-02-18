@@ -1,0 +1,38 @@
+.client-reviews {
+  padding: 60px 20px;
+  background-color: #fff;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.client-reviews-title {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.review-card {
+  background-color: #f9f9f9;
+  padding: 30px;
+  margin: 0 auto;
+  max-width: 600px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.review-card h3 {
+  font-size: 1.2rem;
+  color: #E7473C;
+  margin-bottom: 10px;
+}
+
+.review-card p {
+  font-size: 1rem;
+  color: #555;
+  margin: 8px 0;
+}
+
+.rating {
+  font-weight: bold;
+  color: #E7473C;
+}
